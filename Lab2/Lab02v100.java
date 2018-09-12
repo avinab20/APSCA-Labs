@@ -13,6 +13,7 @@ public class Lab02v100
 {
     public static void main(String[] args)
     {
+    //Copied from lab instructions
     System.out.println("Lab 02, 80 Point Version");
     System.out.println();
     System.out.println();
@@ -21,6 +22,7 @@ public class Lab02v100
     System.out.println();
     System.out.println("Bewilderment + Exposure = Obvious");
     System.out.println();
+    //Printing out the words '100 POINTS' using hashtags
     System.out.println("# ##### #####      ##### ##### # #   # ##### #####");
     System.out.println("# #   # #   #      #   # #   # # ##  #   #   #    ");
     System.out.println("# #   # #   #      ##### #   # # # # #   #   #####");

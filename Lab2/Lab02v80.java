@@ -14,6 +14,7 @@ public class Lab02v80
 {
     public static void main(String[] args)
     {
+    // Copied assignment from lab instructions
     System.out.println("Lab 02, 80 Point Version");
     System.out.println();
     System.out.println();
