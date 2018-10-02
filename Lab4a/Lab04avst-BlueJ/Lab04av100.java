@@ -25,6 +25,10 @@ public class Lab04av100
         double roundInt = (double)(Math.round(totalInt*100))/100;
 
         //prints out the given information above and the calculated/rounded monthly pay, total pay, and total interest
+        System.out.println(monthPay*100);
+        System.out.println((double)Math.round(monthPay*100));
+        System.out.println();
+        
         System.out.println("Principal: $" + principal);
         System.out.println("Annual Rate: " + annualRate + "%");
         System.out.println("Number of Years: " + numYears);
