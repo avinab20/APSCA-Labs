@@ -1,4 +1,4 @@
-Ready for Review:
+Part 1 of APCSA Labs
 
-Lab 2, Lab 3, Lab 4a(now corrected), Lab 4b, and Lab 5
+Lab 2, Lab 3, Lab 4a, Lab 4b, and Lab 5
 
